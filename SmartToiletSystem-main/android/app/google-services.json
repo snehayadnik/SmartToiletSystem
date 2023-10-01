@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831897306126",
+    "project_id": "smarttoiletsystem-995b8",
+    "storage_bucket": "smarttoiletsystem-995b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831897306126:android:273111d5cb41820ac9685f",
+        "android_client_info": {
+          "package_name": "com.example.smarttoiletsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831897306126-43jg1lveelj0lanemu9j7l901gcq4tor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDA9Tfwyj8Ig07lm2RgOr6-gBMxBXj4Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831897306126-43jg1lveelj0lanemu9j7l901gcq4tor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
